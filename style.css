@@ -1,0 +1,22 @@
+.heading
+{
+    font-size: 25px;
+    width : 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px red;
+}
+
+.heading2
+{
+    float: none;
+    background: white;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px orange;
+}
+
+.heading3
+{
+    font-size: 25px;
+}
